@@ -1,6 +1,6 @@
 #write your code here
 def countdown_with_sleep(y)
-  return sleep(y)
+  sleep(y)
 end
 
 def countdown(x)
